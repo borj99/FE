@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@giphy/js-fetch-api": "^4.4.0",
+    "git": "^0.1.5"
+  }
+}
